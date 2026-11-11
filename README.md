@@ -12,7 +12,7 @@ for teams that depend on them every day.
 [![Email](https://img.shields.io/badge/Email-enohuwemakpan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enohuwemakpan@gmail.com)
 [![Gmail](https://img.shields.io/badge/Open_in_Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enohuwemakpan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enoh-uwem-akpan-20125932a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://wdd430-portfolio-2h4r.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-delta-84.vercel.app/)
 [![Location](https://img.shields.io/badge/Remote-Nigeria-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](#get-in-touch)
 [![Open to work](https://img.shields.io/badge/Open%20to%20work-Software%20Engineer-1F883D?style=for-the-badge&logo=github&logoColor=white)](#get-in-touch)
 
